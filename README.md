@@ -16,4 +16,4 @@ This is repository for Udacity Deep Learning Nano Degree
 - Test your model and answer what do you think of your model and why
 
 ## P2 Dog Project
-- This project is same as Machine Learning Project 5.
+- Refer to Machine Learning Project 5(Same project).
