@@ -1,0 +1,4 @@
+.DS_Store
+saved_models/
+__pycache__/
+.ipynb_checkpoints/
