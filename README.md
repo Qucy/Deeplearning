@@ -1,10 +1,10 @@
-# Udacity Deep Learning
+ # Udacity Deep Learning
 
 This is repository for Udacity Deep Learning Nano Degree
 
 
 ## P1 First neural newwork
-- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.7_GPU_Verion
+- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.7.0_GPU_Verion
 - Using Pandas API to load and understand your data
 - Understand Nerual Network like input layer, hidden layer and output layer
 - Understand activate function like sigmoid, tang and reLu.
@@ -20,7 +20,7 @@ This is repository for Udacity Deep Learning Nano Degree
 
 
 ## P3 TV script generation
-- ENV : Anaconda + Jupyter notebook + python 3.5 + TF_1.0.0_CPU_Version (Chinese version)
+- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.0.0_CPU_Version (Chinese version)
 - Understand recurrent nerual network
 - Understand Long Short Term Memery(LSTM) cell
 - Understand hyper parameters and know how to tune these parameters(learning rate, mini batch size, epoch and hidden nodes, layers etc)
