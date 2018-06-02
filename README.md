@@ -31,3 +31,7 @@ This is repository for Udacity Deep Learning Nano Degree
 - Implement get batch method
 - Put everything together and train your RNN
 - Generate your own tv script
+
+## P4 Face generation
+- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.0.0_CPU_Version (Chinese version)
+- Understand
