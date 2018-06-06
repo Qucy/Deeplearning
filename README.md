@@ -35,5 +35,5 @@ This is repository for Udacity Deep Learning Nano Degree
 ## P4 Face generation
 - ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.0.0_CPU_Version (Chinese version)
 - Understand GAN and implement GAN in MINI project
-- Understand DGAN....
-- 
+- Understand Batch Normalization and DCGAN
+- Implement Batch Normalization and DCGAN in MINI project
