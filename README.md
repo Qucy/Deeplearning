@@ -37,3 +37,5 @@ This is repository for Udacity Deep Learning Nano Degree
 - Understand GAN and implement GAN in MINI project
 - Understand Batch Normalization and DCGAN
 - Implement Batch Normalization and DCGAN in MINI project
+- Understand and Implement semi-supervised learning GAN (optional)
+- 
