@@ -39,3 +39,7 @@ This is repository for Udacity Deep Learning Nano Degree
 - Implement Batch Normalization and DCGAN in MINI project
 - Understand and Implement semi-supervised learning GAN (optional)
 - Implement P4 Face generation (almost same as MINI project DCGAN, except you need to implement training process by your own)
+
+## P5 RL-Quadcopter
+- ENV : TBD
+- 
