@@ -33,7 +33,7 @@ This is repository for Udacity Deep Learning Nano Degree
 - Generate your own tv script
 
 ## P4 Face generation
-- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.0.0_CPU_Version (Chinese version)
+- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.7.0_GPU_Verion
 - Understand GAN and implement GAN in MINI project
 - Understand Batch Normalization and DCGAN
 - Implement Batch Normalization and DCGAN in MINI project
@@ -41,5 +41,8 @@ This is repository for Udacity Deep Learning Nano Degree
 - Implement P4 Face generation (almost same as MINI project DCGAN, except you need to implement training process by your own)
 
 ## P5 RL-Quadcopter
-- ENV : TBD
-- 
+- ENV : Anaconda + Jupyter notebook + python 3.5 + TF 1.7.0_GPU_Verion
+- Understand MDP
+- Understand MC and TD regarding RL
+- Understand Actor-Critic
+- Implement RL-Quadcopter (can use almost 90% code from examples but need design your own reward function, NN and tune some hyper parameters)
