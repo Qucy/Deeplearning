@@ -46,3 +46,6 @@ This is repository for Udacity Deep Learning Nano Degree
 - Understand MC and TD regarding RL
 - Understand Actor-Critic
 - Implement RL-Quadcopter (can use almost 90% code from examples but need design your own reward function, NN and tune some hyper parameters)
+
+## Nano degree
+https://confirm.udacity.com/7LF5P5ST
